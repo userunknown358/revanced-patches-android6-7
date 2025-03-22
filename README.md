@@ -10,6 +10,10 @@ Other information is also available on [[documentations]](https://github.com/kit
 ## About
 This is an experiment of integrating RVX patches to YouTube 15.33.34
 
+## Progress
+![image](https://github.com/user-attachments/assets/edbd67e7-c33b-4400-ad6e-f3952175177b)
+Error 400, crashes on Settings because of incompatible patches
+
 ### ~~Avoid "Switch to YouTube.com"~~
 This version of YouTube shut down in March 2023
 
